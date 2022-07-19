@@ -6,7 +6,7 @@ def _header_():
 	print (r"""
     cccc   i   bbbb    eeeeee   rrrrrrr
    cc      i   b   b   eeeeee   rr   rrr
-   cc      i   b b     eee      rrrrrrr     ------   P3d1A
+   cc      i   b b     eee      rrrrrr      ------   P3d1A
    cc      i   b   b   eeeeee   rr rrrr
     cccc   i   bbbb    eeeeee   rr  rrr                                                                   """)
 
